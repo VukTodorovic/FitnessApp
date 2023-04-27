@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fitness app</string>
+    <!-- Main Activity -->
+    <string name="chest">Chest</string>
+    <string name="back">Back</string>
+    <string name="biceps">Biceps</string>
+    <string name="legs">Legs</string>
+
+    <!-- Chest Activity -->
+    <string name="chest1">Push up (30 seconds)</string>
+    <string name="chest2">Chest press (30 seconds)</string>
+
+    <!-- Back Activity -->
+    <string name="back1">Superman to Back Squeeze (30 seconds)</string>
+    <string name="back2">Russian Twist (30 seconds)</string>
+
+    <!-- Biceps Activity -->
+    <string name="biceps1">Bicep curls (30 seconds)</string>
+    <string name="biceps2">Overhead Arm Circle (30 seconds)</string>
+
+    <!-- Legs Activity -->
+    <string name="legs1">Pulse Squats (30 seconds)</string>
+    <string name="legs2">Walking lunges (30 seconds)</string>
+
+</resources>
